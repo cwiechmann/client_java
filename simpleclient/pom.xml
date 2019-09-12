@@ -9,7 +9,7 @@
     </parent>
 
     <groupId>io.prometheus</groupId>
-    <artifactId>simpleclient</artifactId>
+    <artifactId>simpleclient_timestamp_support</artifactId>
     <packaging>bundle</packaging>
 
     <name>Prometheus Java Simpleclient</name>
